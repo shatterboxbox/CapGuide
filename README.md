@@ -4,7 +4,7 @@
 
 ## Part 1 - Race to 10k
 
-1. Rush Extended Magnet Rage
+1. Rush Extended Magnet Range
 1. Even Cheaper Eggs
 1. Max Egg luck
 1. Max Fuse Luck
@@ -13,7 +13,7 @@
 1. Max gold
 1. Max Drop Promotion Chance
 
-### Walls to max
+### Walls Upgrades Priority
 
 1. Magnet
 2. Drop Rate
