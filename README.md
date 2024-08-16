@@ -58,6 +58,7 @@ Now the main things that provide you income are complete, we can start working o
 ### Metallic Pet Readiness
 Metallic pets are the best / fastest way to get much higher damage and in return, higher gold income. We start out with 0% chance to get a metallic and need to get at least 1 level of Metallic Luck in Grove in order to even have the smallest chances. So lets make sure that we have that ability. Also of note, when you get your first Met, it's worth it to get Polished Metal, it's a damage multiplier based on the shiny score of that pet.
 
+#### Pre-Ascension:
 1. Buy a couple levels of **metallic luck, up to the 100 stone cost** is fine for now.
 2. Get **Epic R&D**. It's not worth it go get the lesser ones at this point. It would be better to generate slower while maintaining epic than to generate faster but need to drop down to rare generation. Eew.
 3. Keep Gen speed low for now until you get a feel for your income (DO NOT MAKE CHOICES BASED ON INCOME DURING 2x WEEKENDS)
@@ -69,10 +70,12 @@ Metallic pets are the best / fastest way to get much higher damage and in return
 1. Get **calc luck to 50%**
 1. Get **Met luck to 25**
 1. After met luck is 25, work on **Calc luck to 75%**
-1. Time for your first big save! **Get 60k stones saved up for Recursive Cloning and Metal Clusters**. These will help greatly with the met hunt!
 1. Next we want to get **Met luck to 100 upgrades**
 1. Then **Calc luck to max**
 1. Now we start upgrading our gen speed as gold income allows. Don't raise it so high you can't maintain prod/prod. Again, don't base your choices off of 2x gold weekend income or you'll have a big sad.
+
+   #### Post-Ascension
+   1. met luck 
 
 ## Part 3 - Building your Titanium Team and Preparing for the Mine
 Okay you're a big dawg now eh? You're generating at 5/s and still gaining gold while doing Prod/Prod. Now what?
